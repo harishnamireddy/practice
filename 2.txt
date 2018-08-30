@@ -1,0 +1,3 @@
+Second file in the folder
+Modified in branch2
+
